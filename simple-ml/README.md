@@ -27,4 +27,7 @@ $ pip install pandas seaborn matplotlib scikit-learn
 ```
 
 ## 3. Preprocess data
-Process data to be used for machine learning model. Refer to [previous folder]().
+Process data to be used for machine learning model. Refer to [data-processing folder](https://github.com/Cyrof/Learning-ML/tree/main/data-processing).
+
+## 4. Create machine learning models
+Refer to ml.py for codes.
